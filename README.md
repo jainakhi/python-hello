@@ -1,2 +1,2 @@
 # python-hello
-This is a Github Reposioty
+This is a Github Repository
